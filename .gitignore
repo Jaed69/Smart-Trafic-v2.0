@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+.cache/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.tsbuildinfo
